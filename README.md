@@ -5,7 +5,7 @@ This is a collection of all checkpoints that complete my final project for the D
 
 <h2>
 Project Checkpoints
-<h2>
+</h2>
 
 1. [Project Checkpoint 1: Business Issue and Dataset](https://github.com/mysciaroni/launchcode-women-data-analysis-final-project/blob/main/Assignment%204%20Checkpoint%201.pdf)
 2. [Project Checkpoint 2: EDA](https://github.com/mysciaroni/eda-checkpoint.git)
