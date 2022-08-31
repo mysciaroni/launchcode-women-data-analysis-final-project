@@ -1,7 +1,7 @@
 <h1>
   LaunchCode Women+ Data Analysis Final Project Assignment 4
-
 </h1>
+
 1. [Project Checkpoint 1](https://github.com/mysciaroni/launchcode-women-data-analysis-final-project/blob/main/Assignment%204%20Checkpoint%201.pdf)
 2. [Project Checkpoint 2](https://github.com/mysciaroni/eda-checkpoint.git)
 3. [Project Checkpoint 3](https://github.com/mysciaroni/cleaning-data-checkpoint.git)
